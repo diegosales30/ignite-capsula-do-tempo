@@ -1,0 +1,14 @@
+
+
+```
+npm init --y
+npm i typescript -D
+ -> npx tsc --init
+npm i @types/node -D
+npm - tsx -D
+npm install eslint -D
+
+framework  app restfull;
+npm i fastify     produção
+
+```
